@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+openai-whisper
+python-dotenv
+chromadb
+sentence-transformers
+nltk
+reportlab
+sqlalchemy 
+psycopg2-binary
+langgraph
